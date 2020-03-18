@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace String
 {
@@ -10,6 +6,15 @@ namespace String
     {
         static void Main(string[] args)
         {
+            //We can use Console.WriteLine to display text on the users screen
+            Console.WriteLine("We use string to input text on the system!");
+            //We use ReadLine to stop the console from closing down on the user
+            Console.ReadLine();
+
+
+            //But we can declare variables
+
+
         }
     }
 }
